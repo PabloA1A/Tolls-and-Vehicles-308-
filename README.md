@@ -9,6 +9,7 @@ The toll station is required to calculate the toll value of each arriving vehicl
 
 ## Requirements:
 UML diagram of classes.
+
 Mandatory unit tests (minimum coverage 70%)
 
 ### AUTHOR:
@@ -17,3 +18,7 @@ Pablo Abad
 ```
 
 ## Screenshot of the coverage test:
+![Coverage test](<Captura de pantalla 2024-09-06 a las 18.53.06.png>)
+
+## My diagram with https://app.diagrams.net/:
+![Diagram class](<Captura de pantalla 2024-09-06 a las 19.04.10.png>)
